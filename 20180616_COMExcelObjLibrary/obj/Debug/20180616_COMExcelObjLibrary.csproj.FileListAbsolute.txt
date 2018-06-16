@@ -1,0 +1,14 @@
+E:\Yasen\WORK\Xadd Ribbon\Test Solutions\20180616_COMExcelObjLibrary\20180616_COMExcelObjLibrary\bin\Debug\20180616_COMExcelObjLibrary.dll
+E:\Yasen\WORK\Xadd Ribbon\Test Solutions\20180616_COMExcelObjLibrary\20180616_COMExcelObjLibrary\bin\Debug\20180616_COMExcelObjLibrary.pdb
+E:\Yasen\WORK\Xadd Ribbon\Test Solutions\20180616_COMExcelObjLibrary\20180616_COMExcelObjLibrary\bin\Debug\20180616_COMExcelObjLibrary.dll.manifest
+E:\Yasen\WORK\Xadd Ribbon\Test Solutions\20180616_COMExcelObjLibrary\20180616_COMExcelObjLibrary\bin\Debug\20180616_COMExcelObjLibrary.vsto
+E:\Yasen\WORK\Xadd Ribbon\Test Solutions\20180616_COMExcelObjLibrary\20180616_COMExcelObjLibrary\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\Yasen\WORK\Xadd Ribbon\Test Solutions\20180616_COMExcelObjLibrary\20180616_COMExcelObjLibrary\obj\Debug\20180616_COMExcelObjLibrary.csprojAssemblyReference.cache
+E:\Yasen\WORK\Xadd Ribbon\Test Solutions\20180616_COMExcelObjLibrary\20180616_COMExcelObjLibrary\obj\Debug\20180616_COMExcelObjLibrary.csproj.ResolveComReference.cache
+E:\Yasen\WORK\Xadd Ribbon\Test Solutions\20180616_COMExcelObjLibrary\20180616_COMExcelObjLibrary\obj\Debug\_20180616_COMExcelObjLibrary.Properties.Resources.resources
+E:\Yasen\WORK\Xadd Ribbon\Test Solutions\20180616_COMExcelObjLibrary\20180616_COMExcelObjLibrary\obj\Debug\_20180616_COMExcelObjLibrary.Ribbon.resources
+E:\Yasen\WORK\Xadd Ribbon\Test Solutions\20180616_COMExcelObjLibrary\20180616_COMExcelObjLibrary\obj\Debug\20180616_COMExcelObjLibrary.csproj.GenerateResource.cache
+E:\Yasen\WORK\Xadd Ribbon\Test Solutions\20180616_COMExcelObjLibrary\20180616_COMExcelObjLibrary\obj\Debug\20180616_COMExcelObjLibrary.csproj.CoreCompileInputs.cache
+E:\Yasen\WORK\Xadd Ribbon\Test Solutions\20180616_COMExcelObjLibrary\20180616_COMExcelObjLibrary\obj\Debug\20180616_COMExcelObjLibrary.csproj.CopyComplete
+E:\Yasen\WORK\Xadd Ribbon\Test Solutions\20180616_COMExcelObjLibrary\20180616_COMExcelObjLibrary\obj\Debug\20180616_COMExcelObjLibrary.dll
+E:\Yasen\WORK\Xadd Ribbon\Test Solutions\20180616_COMExcelObjLibrary\20180616_COMExcelObjLibrary\obj\Debug\20180616_COMExcelObjLibrary.pdb
